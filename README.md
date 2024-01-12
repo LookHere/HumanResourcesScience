@@ -1,5 +1,7 @@
-# HumanResourcesScience
+# Human Resources Science
 Ever week on Fridays at noon EST we come together to talk with an amazing speaker.  Come join the next conversation.
+
+For more updates on what we're working on, join the LinkedIn group [Human Resource Science](https://www.linkedin.com/groups/12704693/)
 
 ## Upcoming Events
 
@@ -11,7 +13,7 @@ Ever week on Fridays at noon EST we come together to talk with an amazing speake
 
 2/9/24	[Timothy Whitley](https://www.linkedin.com/in/timwhitley1/)'s Ask Me Anything Live
 
-2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/) Panel - "What conversation are TA people avoiding"
+2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/) Panel - What conversation are TA people avoiding
 
 2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/)
 
