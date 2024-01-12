@@ -3,7 +3,7 @@ Ever week on Fridays at noon EST we come together to talk with an amazing speake
 
 ## Upcoming Events
 
-1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link]
+1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link](https://www.linkedin.com/events/7151597441639723009/about/)
 
 1/26/24	[Johnathan Thomas](https://www.linkedin.com/in/thejonthomas?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5fBQYBUUsQoxufWBVwc7oJpQYKH7Zqnew&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVzOG6xY5QZyWDxhJLvvoaQ%3D%3D) - How UX Design Improves Your Products
 
