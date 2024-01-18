@@ -13,7 +13,7 @@ For more updates on what we're working on, join the LinkedIn group [Human Resour
 
 2/9/24	[Timothy Whitley](https://www.linkedin.com/in/timwhitley1/)'s Ask Me Anything Live
 
-2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/) Panel - What conversation are TA people avoiding
+2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/)
 
 2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/)
 
