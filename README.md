@@ -5,9 +5,7 @@ For more updates on what we're working on, join the LinkedIn group [Human Resour
 
 ## Upcoming Events
 
-1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link](https://www.linkedin.com/events/7151597441639723009/about/)
-
-1/26/24	[Johnathan Thomas](https://www.linkedin.com/in/thejonthomas?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5fBQYBUUsQoxufWBVwc7oJpQYKH7Zqnew&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVzOG6xY5QZyWDxhJLvvoaQ%3D%3D) - How UX Design Improves Your Products
+1/26/24	Open Session
 
 2/2/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/)'s Meet & Greet for the HR Sci Community
 
@@ -27,3 +25,5 @@ For more updates on what we're working on, join the LinkedIn group [Human Resour
 1/5/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) and Ziggy, the emotional support AI animal - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
 
 1/12/24	[Maaria Tiensivu](https://www.linkedin.com/in/melissagasparovic/) - What tools are you using? - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
+
+1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link](https://www.linkedin.com/events/7151597441639723009/about/)
