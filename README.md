@@ -5,7 +5,7 @@ For more updates on what we're working on, join the LinkedIn group [Human Resour
 
 ## Upcoming Events
 
-1/26/24	Open Session
+1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data
 
 2/2/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/)'s Meet & Greet for the HR Sci Community
 
