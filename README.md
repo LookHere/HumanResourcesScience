@@ -1,21 +1,25 @@
 # Human Resources Science
 Ever week on Fridays at noon EST we come together to talk with an amazing speaker.  Come join the next conversation.
 
-For more updates on what we're working on, join the LinkedIn group [Human Resource Science](https://www.linkedin.com/groups/12704693/)
+For more updates on what we're working on, join the LinkedIn group [Human Resource Science](https://www.linkedin.com/groups/12704693/).
+
+To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Channel](https://www.youtube.com/@HRSci/playlists).
 
 ## Upcoming Events
 
 1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data
 
-2/2/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/)'s Meet & Greet for the HR Sci Community
+2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner 
 
-2/9/24	[Timothy Whitley](https://www.linkedin.com/in/timwhitley1/)'s Ask Me Anything Live
+2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/uncovering-embracingandimplemen7141751877708218368/comments/)
 
 2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/)
 
 2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/)
 
 3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/)'s Meet & Greet for the HR Sci Community
+
+3/8/24	[Chris Collett](https://www.linkedin.com/in/ccollett/) on How to build AI competency within our HR teams
 
 
 ## Previouse Events
