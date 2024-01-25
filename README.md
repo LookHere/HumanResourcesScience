@@ -7,7 +7,7 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 ## Upcoming Events
 
-1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data
+1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data - [Meeting Link](https://www.linkedin.com/events/hrsciencepresents-shallystecker7155565290683060225/about/)
 
 2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner 
 
