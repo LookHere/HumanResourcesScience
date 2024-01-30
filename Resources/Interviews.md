@@ -34,8 +34,58 @@ Professional journalists have time and experience to craft exciting questions to
 
 Pre-work questions differ from the on-air questions. You may ask in the prep e-mail, "what would a homerun look like for you in this interview?"; then include the questions for the actual interview.
 
+When talking to them in the pre-taping, you may want to ask them a few questions from the Proust Questionnaire.  It could open up the conversation and if you get any really smart responses, you could ask the question again during the live interview.
+- What is your idea of perfect happiness?
+- What is your greatest fear?
+- What is the trait you most deplore in yourself?
+- What is the trait you most deplore in others?
+- Which living person do you most admire?
+- What is your greatest extravagance?
+- What is your current state of mind?
+- What do you consider the most overrated virtue?
+- On what occasion do you lie?
+- What do you most dislike about your appearance?
+- Which living person do you most despise?
+- What is the quality you most like in a man?
+- What is the quality you most like in a woman?
+- Which words or phrases do you most overuse?
+- What or who is the greatest love of your life?
+- When and where were you happiest?
+- Which talent would you most like to have?
+- If you could change one thing about yourself, what would it be?
+- What do you consider your greatest achievement?
+- If you were to die and come back as a person or a thing, what would it be?
+- Where would you most like to live?
+- What is your most treasured possession?
+- What do you regard as the lowest depth of misery?
+- What is your favorite occupation?
+- What is your most marked characteristic?
+- What do you most value in your friends?
+- Who are your favorite writers?
+- Who is your hero of fiction?
+- Which historical figure do you most identify with?
+- Who are your heroes in real life?
+- What are your favorite names?
+- What is it that you most dislike?
+- What is your greatest regret?
+- How would you like to die?
+- What is your motto?
+
+There are some similar questions from Inside Actor's Studio
+- What is your favorite word?
+- What is your least favorite word?
+- What turns you on creatively, spiritually or emotionally?
+- What turns you off?
+- What is your favorite curse word?
+- What sound or noise do you love?
+- What sound or noise do you hate?
+- What profession other than your own would you like to attempt?
+- What profession would you not like to do?
+- If Heaven exists, what would you like to hear God say when you arrive at the Pearly Gates?
+
 Before the interview, when you can speak together live, it is worth setting the standard of how things will operate.  
 
+This is also a key time to ask for headshot and bio.  If you'd like you can also confirm the title and description you'll use in advertising material.
 
 ## Example
 
@@ -105,46 +155,6 @@ The Psychology of Recruitment with Pete RadloffOctober 25, 2023
 
 The Art of Authentic Sourcing with Gabi Preston PhypersSeptember 19, 2023 
 
-Navigating the Clearance Conundrum with Tommy WeinertJuly 22, 2023 
-
-Sourcer Interview Questions You MUST Ask to Find Top Sourcing TalentAugust 27, 2020 
-
-20 Retweet Tips to Kill Your Social OutreachAugust 20, 2020 
-
-SPAM. Getting the Most Out of EmailAugust 13, 2020 
-
-Why Recruiters Should (and How To) Use Reverse Image SearchJuly 30, 2020 
-
-Effective Email Relationships & CampaignsJuly 30, 2020 
-
-How to Grow the Efficiency of Your Recruitment and Sourcing ProcessJuly 16, 2020 
-
-Outreach Hacks. 7 Step Approach to Dynamic Email CampaignsJuly 09, 2020 
-
-Productivity Hacks in 8 MinutesJuly 02, 2020 
-
-Just-in-Time HiringJune 25, 2020 
-
-Obtaining Upper Management Buy-In for SourcingJune 18, 2020 
-
-Conducting a S.W.O.T. AnalysisJune 11, 2020 
-
-If Talent is Top Priority for CEOs, Why is Recruitment Reactive and Not Proactive?June 04, 2020 
-
-Recruiting is Dead. Long Live SourcingMay 28, 2020 
-
-Traits of a GREAT SourcerMay 21, 2020 
-
-How to Coach an Introvert to InterviewMay 20, 2020 
-
-7 Days Without Sourcing Makes One WeakMay 14, 2020 
-
-Sourcing as a DISCREET Capital InvestmentMay 07, 2020 
-
-How to Source Using Digital Anthropology April 30, 2020 
-
-Training Your Recruiters Based on Real-Life ScenariosApril 23, 2020 
-
 
 
 
@@ -193,11 +203,11 @@ I saw on one of your websites that you had over 200 guests on Shally's Alley. Th
 
 Without naming names, what was the thing that your worst guest did that made it a challenging episode?
 
------
+------
 
 On the other side of that, what was the biggest eye opening moment you've been shocked by from one of your guests
 
-‐‐‐‐--
+------
 
 We've just come out of 2023, the year of Ai hype, but also if the bitcoin crash. What areas of HR do you think applying technology will successfully growing this year, and which do you think will fizzle out?
 
@@ -229,4 +239,4 @@ Ai's not going to replace the advanced Sourcing you do, but if some technology d
 
 # Credits
 
-Thanks very much to Nick Truxal for his expert advise in this area.
+Thanks very much to [Nick Truxal](https://www.linkedin.com/in/nick-truxal/), [Adaml Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/), and [Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) for their expert advise in this area.
