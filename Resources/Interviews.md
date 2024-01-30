@@ -1,7 +1,13 @@
 # How to conduct an interview
 
 ## Main goal
-Conducting interviews can be a bit challenging if you've never done it before.  Although people focus on the public speaking aspect of it, the most important piece is developing interesting content.  In our context that means something that HR Professionals haven't heard before.  If your interview and find that (and cut away the other stuff) it'll be successful.
+Conducting interviews can be a bit challenging if you've never done it before.  Although people focus on the public speaking aspect of it, the most important piece is developing interesting content.  In our context that means something that HR Professionals haven't heard before.  Your goal is to bring out that interesting stuff (and cut away the other stuff).
+
+The best questions come from mashing together something the person being interviewed is an expert at and something they are passionate about.
+
+If you're getting stuck, try to build questions that stem from the tone and style of the HRSci community.  Thinking about what we're doing and what our audience is looking for will help give some perspective on the questions. 
+
+Some interviewers always ended with the same 3 rapid fire questions (in Nick's earlier work they focused on things like influence, inspiring, and innovating).  It ensures a clean end to every interview.
 
 ## Finding something interesting
 
@@ -11,6 +17,8 @@ Instead, try to take a step back and see what make this person special in compar
 - What do they know that most HR people don't know?
 - What's an experience they've had that more people haven't?
 - Why would someone want to listen to them?
+
+The pre-interview research is vital and will hopefully lead to authentic and expert interactions.
 
 ## Cutting out the average
 
@@ -23,6 +31,11 @@ Take a look at all of your questions and make sure that you limit your standard 
 ## Asking them what to ask
 
 Professional journalists have time and experience to craft exciting questions to gather surprising responses (and even still they often fail).  Our work is often more collaborative with the guest, so feel free to ask them beforehand what type of areas they like to discuss.  If they tell you what areas they find interesting, it gives you the opportunity to research those areas and come up with good questions around them.
+
+Pre-work questions differ from the on-air questions. You may ask in the prep e-mail, "what would a homerun look like for you in this interview?"; then include the questions for the actual interview.
+
+Before the interview, when you can speak together live, it is worth setting the standard of how things will operate.  
+
 
 ## Example
 
@@ -212,3 +225,8 @@ There is a lot of talk about using AI in the hiring process.  New York recently
 
 -------
 Ai's not going to replace the advanced Sourcing you do, but if some technology did, what area would you move into?
+
+
+# Credits
+
+Thanks very much to Nick Truxal for his expert advise in this area.
