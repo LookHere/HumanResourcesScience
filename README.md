@@ -7,17 +7,15 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 ## Upcoming Events
 
-1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data - [Meeting Link](https://www.linkedin.com/events/hrsciencepresents-shallystecker7155565290683060225/about/)
-
-2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner 
+2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner - [Meeting Link](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/)
 
 2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/uncovering-embracingandimplemen7141751877708218368/comments/)
 
-2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/)
+2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/) - [Meeting Link](https://www.linkedin.com/events/thegenerationaldifferencestalen7158517175148806144/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q)
 
 2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/)
 
-3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/)'s Meet & Greet for the HR Sci Community
+3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) hosts Nicole Ferretti - How I use People Analytics to Drive Value?
 
 3/8/24	[Chris Collett](https://www.linkedin.com/in/ccollett/) on How to build AI competency within our HR teams
 
@@ -31,3 +29,5 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 1/12/24	[Maaria Tiensivu](https://www.linkedin.com/in/melissagasparovic/) - What tools are you using? - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
 
 1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link](https://www.linkedin.com/events/7151597441639723009/about/) - [Watch on Youtube](https://www.youtube.com/watch?v=XtECuodaehM)
+
+1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data - [Meeting Link](https://www.linkedin.com/events/hrsciencepresents-shallystecker7155565290683060225/about/)
