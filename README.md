@@ -3,7 +3,7 @@ Ever week on Fridays at noon EST we come together to talk with an amazing speake
 
 For more updates on what we're working on, join the LinkedIn group [Human Resource Science](https://www.linkedin.com/groups/12704693/).
 
-To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Channel](https://www.youtube.com/@HRSci/playlists).
+To see recordings of our previouse events, subscribe to the [HR Sci Youtube Channel](https://www.youtube.com/@HRSci/playlists).
 
 ## Upcoming Events
 
