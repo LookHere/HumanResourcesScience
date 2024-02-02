@@ -13,7 +13,7 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/) - [Meeting Link](https://www.linkedin.com/events/thegenerationaldifferencestalen7158517175148806144/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q)
 
-2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/)
+2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/) - [Meeting Link](https://www.linkedin.com/events/7159225416816152577/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
 3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) hosts Nicole Ferretti - How I use People Analytics to Drive Value?
 
