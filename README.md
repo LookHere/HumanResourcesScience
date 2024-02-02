@@ -7,9 +7,9 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 ## Upcoming Events
 
-[![name](https://media.licdn.com/dms/image/D4D1EAQHTKKGuPr7nyg/event-background-image-crop_720_1280/0/1705073699473?e=1707508800&v=beta&t=NJMmu0IUq5diJI6U1v16Tj-9my_9PQ24cJgXpa5H1hM)](https://www.youtube.com/watch?v=XtECuodaehM)
+[![name](https://media.licdn.com/dms/image/D561EAQFf4PiDi-xUVw/event-background-image-crop_720_1280/0/1705422251656?e=1707508800&v=beta&t=25UiTHhPF9WBZwTYNVFcbLYFX4pnZu-WBAxkgIJu9Kg)]()
 
-2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/uncovering-embracingandimplemen7141751877708218368/comments/)
+2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/excelforhr-askmeanything-withex7153059375610298368/)
 
 [![name](https://media.licdn.com/dms/image/D4D1EAQHWC8lz971H2w/event-background-image-crop_720_1280/0/1706723492965?e=1707508800&v=beta&t=NDZzph_Hhs45DisW3GCH2VkT0-CiylVo9uDQEQd1Y-U)]([https://www.youtube.com/watch?v=XtECuodaehM](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q))
 
@@ -37,9 +37,9 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 1/5/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) and Ziggy, the emotional support AI animal - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
 
 
-[![name](https://media.licdn.com/dms/image/D4E1EAQHH9YqLERD-YQ/event-background-image-crop_720_1280/0/1706019708890?e=1707508800&v=beta&t=nUOorXNdMDQxkuzH-rkl7RCGa39asANvuP3M0--VhX4)]()
+[![name](https://media.licdn.com/dms/image/D4E1EAQH3-8Q57gOGnA/event-background-image-crop_720_1280/0/1704898657982?e=1707508800&v=beta&t=Y-BzXaswqwPuO4bBISQv8j79Ldt9mq4Ft0QhgNlcVKg)]()
 
-1/12/24	[Maaria Tiensivu](https://www.linkedin.com/in/melissagasparovic/) - What tools are you using? - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
+1/12/24	[Maaria Tiensivu](https://www.linkedin.com/in/melissagasparovic/) - What tools are you using? - [Meeting Link](https://www.linkedin.com/events/hrtools7150863262438289408/comments/)
 
 [![name](https://media.licdn.com/dms/image/D4D1EAQHTKKGuPr7nyg/event-background-image-crop_720_1280/0/1705073699473?e=1707508800&v=beta&t=NJMmu0IUq5diJI6U1v16Tj-9my_9PQ24cJgXpa5H1hM)](https://www.youtube.com/watch?v=XtECuodaehM)
 
