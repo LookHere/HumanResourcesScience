@@ -7,9 +7,15 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 ## Upcoming Events
 
+[![name](https://media.licdn.com/dms/image/D4D1EAQHTKKGuPr7nyg/event-background-image-crop_720_1280/0/1705073699473?e=1707508800&v=beta&t=NJMmu0IUq5diJI6U1v16Tj-9my_9PQ24cJgXpa5H1hM)](https://www.youtube.com/watch?v=XtECuodaehM)
+
 2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/uncovering-embracingandimplemen7141751877708218368/comments/)
 
+[![name](https://media.licdn.com/dms/image/D4D1EAQHWC8lz971H2w/event-background-image-crop_720_1280/0/1706723492965?e=1707508800&v=beta&t=NDZzph_Hhs45DisW3GCH2VkT0-CiylVo9uDQEQd1Y-U)]([https://www.youtube.com/watch?v=XtECuodaehM](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q))
+
 2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/) - [Meeting Link](https://www.linkedin.com/events/thegenerationaldifferencestalen7158517175148806144/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q)
+
+[![name](https://media.licdn.com/dms/image/D561EAQE-iC5CEogENA/event-background-image-crop_720_1280/0/1706892350419?e=1707508800&v=beta&t=_5MSZcPxCGAWB6ElxkXdAiGAopMqLaDwNJ8YtMP_Wro)](https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
 2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/) - [Meeting Link](https://www.linkedin.com/events/7159225416816152577/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
@@ -20,14 +26,31 @@ To see recordings of our previouse lectures, subscribe to the [HR Sci Youtube Ch
 
 ## Previouse Events
 
+
+[![name](https://media.licdn.com/dms/image/D4E1EAQHp77tHvxsW9A/event-background-image-crop_720_1280/0/1702987883158?e=1707508800&v=beta&t=j3BTclZndZaOn6eKmJRVBLFrxaL7DEhey7TnZkumAjg)]()
+
 12/22/23	[John Kelly](https://www.linkedin.com/in/john-kelly-iv/) Hosts Office Hours & 2024 Expectations - [Meeting Link](https://www.linkedin.com/events/uncovering-embracingandimplemen7141751877708218368/comments/) 
+
+
+[![name](https://media.licdn.com/dms/image/D561EAQFogTIrz6ZCfQ/event-background-image-crop_720_1280/0/1704234259237?e=1707508800&v=beta&t=vvGSbH-cobPKjcN6X1fXFjGOV7UcKU9NA1SpXWXkPy4)]()
 
 1/5/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) and Ziggy, the emotional support AI animal - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
 
+
+[![name](https://media.licdn.com/dms/image/D4E1EAQHH9YqLERD-YQ/event-background-image-crop_720_1280/0/1706019708890?e=1707508800&v=beta&t=nUOorXNdMDQxkuzH-rkl7RCGa39asANvuP3M0--VhX4)]()
+
 1/12/24	[Maaria Tiensivu](https://www.linkedin.com/in/melissagasparovic/) - What tools are you using? - [Meeting Link](https://www.linkedin.com/feed/update/urn:li:activity:7148076574335021056/)
+
+[![name](https://media.licdn.com/dms/image/D4D1EAQHTKKGuPr7nyg/event-background-image-crop_720_1280/0/1705073699473?e=1707508800&v=beta&t=NJMmu0IUq5diJI6U1v16Tj-9my_9PQ24cJgXpa5H1hM)](https://www.youtube.com/watch?v=XtECuodaehM)
 
 1/19/24	[Nancy Tavares](https://www.linkedin.com/in/nancytavaressrhrprofessional?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaHk98BLMpG1Mqos0g929MG_fPspqocifA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bz88E2Mb%2BQyuM2kmHZ5H7Rg%3D%3D) - Linking Health to Productivity - [Meeting Link](https://www.linkedin.com/events/7151597441639723009/about/) - [Watch on Youtube](https://www.youtube.com/watch?v=XtECuodaehM)
 
+[![name](https://media.licdn.com/dms/image/D4E1EAQHH9YqLERD-YQ/event-background-image-crop_720_1280/0/1706019708890?e=1707508800&v=beta&t=nUOorXNdMDQxkuzH-rkl7RCGa39asANvuP3M0--VhX4)]()
+
 1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data - [Meeting Link](https://www.linkedin.com/events/hrsciencepresents-shallystecker7155565290683060225/about/)
 
+[![name](https://media.licdn.com/dms/image/D561EAQE0CkR5CN9xjw/event-background-image-crop_720_1280/0/1706495698213?e=1707508800&v=beta&t=Pze3b45Iyph0uU4dnKMygfVeNkJp53Xsk6gE0aJ1UsE)](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/)
+
+
 2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner - [Meeting Link](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/)
+
