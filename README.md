@@ -49,8 +49,8 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 
 1/26/24	[Shally Steckerl](https://www.linkedin.com/in/shally/)'s take on Sourcing and Recruiting Data - [Meeting Link](https://www.linkedin.com/events/hrsciencepresents-shallystecker7155565290683060225/about/)
 
-[![name](https://media.licdn.com/dms/image/D561EAQE0CkR5CN9xjw/event-background-image-crop_720_1280/0/1706495698213?e=1707508800&v=beta&t=Pze3b45Iyph0uU4dnKMygfVeNkJp53Xsk6gE0aJ1UsE)](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/)
+[![name](https://media.licdn.com/dms/image/D561EAQE0CkR5CN9xjw/event-background-image-crop_720_1280/0/1706495698213?e=1707508800&v=beta&t=Pze3b45Iyph0uU4dnKMygfVeNkJp53Xsk6gE0aJ1UsE)](https://www.youtube.com/watch?v=nrMtya3Ec44)
 
 
-2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner - [Meeting Link](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/)
+2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner - [Meeting Link](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/) - [Watch on Youtube](https://www.youtube.com/watch?v=nrMtya3Ec44)
 
