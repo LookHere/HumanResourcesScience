@@ -17,7 +17,7 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 
 [![name](https://media.licdn.com/dms/image/D561EAQE-iC5CEogENA/event-background-image-crop_720_1280/0/1706892350419?e=1707508800&v=beta&t=_5MSZcPxCGAWB6ElxkXdAiGAopMqLaDwNJ8YtMP_Wro)](https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
-2/23/24	AMA with [Adam Treitler](https://www.linkedin.com/in/adam-treitler-65a2a56b/) - [Meeting Link](https://www.linkedin.com/events/7159225416816152577/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=BaEQdHvgEEc)
+2/23/24	AMA with [Adam Treitler](https://media.licdn.com/dms/image/D4E1EAQHUYlDYEBd6gA/event-background-image-crop_720_1280/0/1706908173687?e=1707526800&v=beta&t=9DpbAW1vDX2RpwWAV6GiHzTJjI9yPJYuV3B19a_8npU) - [Meeting Link](https://www.linkedin.com/events/7159225416816152577/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
 3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) hosts Nicole Ferretti - How I use People Analytics to Drive Value?
 
