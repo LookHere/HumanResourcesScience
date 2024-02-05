@@ -16,7 +16,7 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/) - [Meeting Link](https://www.linkedin.com/events/thegenerationaldifferencestalen7158517175148806144/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q)
 
 
-[![name](https://media.licdn.com/dms/image/D4E1EAQHUYlDYEBd6gA/event-background-image-crop_720_1280/0/1706908173687?e=1707753600&v=beta&t=Fjz4OIbqu0mOUHK0KVhC53bZ_UC92Op1JbbgfzKQrUo)]([https://www.youtube.com/watch?v=BaEQdHvgEEc))
+[![name](https://media.licdn.com/dms/image/D4E1EAQHUYlDYEBd6gA/event-background-image-crop_720_1280/0/1706908173687?e=1707753600&v=beta&t=Fjz4OIbqu0mOUHK0KVhC53bZ_UC92Op1JbbgfzKQrUo)]([https://www.youtube.com/watch?v=BaEQdHvgEEc)
 
 
 2/23/24	AMA with [Adam Treitler](https://media.licdn.com/dms/image/D4E1EAQHUYlDYEBd6gA/event-background-image-crop_720_1280/0/1706908173687?e=1707526800&v=beta&t=9DpbAW1vDX2RpwWAV6GiHzTJjI9yPJYuV3B19a_8npU) - [Meeting Link](https://www.linkedin.com/events/7159225416816152577/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=BaEQdHvgEEc)
