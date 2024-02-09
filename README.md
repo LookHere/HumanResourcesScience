@@ -7,10 +7,6 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 
 ## Upcoming Events
 
-[![name](https://media.licdn.com/dms/image/D561EAQFf4PiDi-xUVw/event-background-image-crop_720_1280/0/1705422251656?e=1707508800&v=beta&t=25UiTHhPF9WBZwTYNVFcbLYFX4pnZu-WBAxkgIJu9Kg)]()
-
-2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/excelforhr-askmeanything-withex7153059375610298368/)
-
 [![name](https://media.licdn.com/dms/image/D4D1EAQHWC8lz971H2w/event-background-image-crop_720_1280/0/1706723492965?e=1707508800&v=beta&t=NDZzph_Hhs45DisW3GCH2VkT0-CiylVo9uDQEQd1Y-U)]([https://www.youtube.com/watch?v=XtECuodaehM](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q))
 
 2/16/24	[John Rogener](https://www.linkedin.com/in/john-rogener/)'s Panel - What is Talent Management Not Talking About (and avoiding) from a Generational Perspective with [John Madigan](https://www.linkedin.com/in/executivetalent/), [Amit Parmer](https://www.linkedin.com/in/parmar79/), and [Lauren Eager](https://www.linkedin.com/in/lauren-eager-476b47121/) - [Meeting Link](https://www.linkedin.com/events/thegenerationaldifferencestalen7158517175148806144/comments/) - [Watch on Youtube](https://www.youtube.com/watch?v=Z-ZG3-eMH0Q)
@@ -57,4 +53,8 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 
 
 2/2/24	[Tracy Balmos](https://www.linkedin.com/in/tracibalmos/) - How I use Analytics and Technology as a HR Practioner - [Meeting Link](https://www.linkedin.com/events/hrsci-howtousepeopleanalyticsto7157090846494908417/about/) - [Watch on Youtube](https://www.youtube.com/watch?v=nrMtya3Ec44)
+
+[![name](https://media.licdn.com/dms/image/D561EAQFf4PiDi-xUVw/event-background-image-crop_720_1280/0/1705422251656?e=1707508800&v=beta&t=25UiTHhPF9WBZwTYNVFcbLYFX4pnZu-WBAxkgIJu9Kg)](https://www.linkedin.com/events/excelforhr-askmeanything-withex7153059375610298368/)
+
+2/9/24	Excel for HR "Ask Me Anything" with Excel Expert [David Bahlavooni](https://www.linkedin.com/in/dbahl74/) - [Meeting Link](https://www.linkedin.com/events/excelforhr-askmeanything-withex7153059375610298368/)
 
