@@ -23,7 +23,9 @@ To see recordings of our previouse events, subscribe to the [HR Sci Youtube Chan
 
 3/1/24	[Melissa Gasparovic](https://www.linkedin.com/in/melissagasparovic/) hosts Nicole Ferretti - How I use People Analytics to Drive Value?
 
-3/8/24	[Chris Collett](https://www.linkedin.com/in/ccollett/) on How to build AI competency within our HR teams
+[![name](https://media.licdn.com/dms/image/D561EAQGT2jmg9yVLbg/event-background-image-crop_720_1280/0/1707432135864?e=1708088400&v=beta&t=Ediyf_oP7XnvZmlK9Qrde_ttXBmndZDzzE2-KP3bsSo)]([https://www.linkedin.com/events/hrscipresents-aiasastrategicpar7161489441813880832/about/)
+
+3/8/24	[Chris Collett](https://www.linkedin.com/in/ccollett/) on How to build AI competency within our HR teams - [Meeint Link](https://www.linkedin.com/events/hrscipresents-aiasastrategicpar7161489441813880832/about/)
 
 
 ## Previouse Events
