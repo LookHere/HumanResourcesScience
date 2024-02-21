@@ -180,10 +180,6 @@ Shally Steckerl 10:08 AM
 > All that works, I do best when asked questions. I’m big on data issues like data hygiene, ethics (particularly when making projections with data), report automation, the important of visualization, less is more (when it comes to metrics and dashboards). For sourcing its important to track data that recruiters don’t normally track or even care much for such as source quality, conversion ratios, message deliverability, contact collision. We’ll have lots to discuss :) 
 
 
-
-
-
-
 ### Final list of questions we crafted
 
 Shally, thank you for being our guest this week.
@@ -235,6 +231,10 @@ There is a lot of talk about using AI in the hiring process.  New York recently
 
 -------
 Ai's not going to replace the advanced Sourcing you do, but if some technology did, what area would you move into?
+
+# Final Video
+
+If you'd like to see what this resulted in, [here is the final video we made](https://www.youtube.com/watch?v=elnddVj9QyU).  As you can see, the questions weren't perfectly what we planned, but they did help Shally explore some areast that might not have come up otherwise.
 
 
 # Credits
